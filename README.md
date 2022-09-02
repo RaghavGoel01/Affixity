@@ -2,7 +2,7 @@
 
 <h2 align=center>An online platform for university students to connect with each other</h2> 
 
-<h3 align=center>An online platform for university students to connect with each other</h3> 
+<h3 align=center>Project Admins</h3> 
 
 <div align="center">
 <table>
